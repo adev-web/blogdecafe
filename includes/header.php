@@ -12,6 +12,11 @@
             </div>
         </div>
 
+
+
+
+
+        
         <div class="header__texto centrar-texto">
             <h2 class="no-margin">Blog de café con consejos y cursos</h2>
             <p class="no-margin">Aprende de los expertos con las mejores recetas y consejos</p>
